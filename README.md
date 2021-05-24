@@ -15,4 +15,4 @@ Here Word Count using Hadoop MapReduce is implemented
     *hadoop dfs -cat /WordCountProgram/Output*
 
 ### Result ###
-![Results](results.jpg)
+![Results](results.png)
