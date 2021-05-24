@@ -13,3 +13,6 @@ Here Word Count using Hadoop MapReduce is implemented
     *hadoop jar 'your jar file path' WordCount /WordCountProgram/Input /WordCountProgram/Output*
 7. Run cat command to view results stored in “/WordCountProgram/Output”<br />
     *hadoop dfs -cat /WordCountProgram/Output*
+
+### Result ###
+![Results](results.jpg)
